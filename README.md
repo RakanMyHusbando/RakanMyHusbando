@@ -16,7 +16,7 @@ Most of my free time is spent with my own programming projects, exploring new Li
 - **Golang** 
 - **JavaScript / TypeScript**
 - **Python**
-- Less confident: **Bash**, **Nix**
+- Less confident: **Bash**, **Nix**, **Lua**
 - Exploring/learning: **Rust**, **Zig**
 
 ---

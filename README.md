@@ -26,4 +26,4 @@ Most of my free time is spent with my own programming projects, exploring new Li
 
 - **Instagram**: [@rakanmyhusbando](https://instagram.com/rakanmyhusbando), [@nil_pointer_dereference](https://instagram.com/nil_pointer_dereference)
 - **Website**: [rakanmyhusbando.de](http://rakanmyhusbando.de) (nothing on)
-- Discord: [@nil_pointer_dereference](https://discordapp.com/users/434009740780109824`)
+- **Discord**: [@nil_pointer_dereference](https://discordapp.com/users/434009740780109824`)
